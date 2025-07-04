@@ -1,6 +1,6 @@
 # 🧠 Agentic RAG Chatbot for Multi-Format Document QA (MCP-Enabled)
 
-This is an intelligent, agent-based Retrieval-Augmented Generation (RAG) chatbot that answers user queries from **uploaded documents** (PDF, DOCX, CSV, PPTX, TXT/Markdown). It uses a **multi-agent architecture** powered by a **Model Context Protocol (MCP)** to orchestrate tasks like document parsing, retrieval, and answer generation.
+This is an intelligent, agent-based Retrieval-Augmented Generation (RAG) chatbot that answers user queries from **uploaded documents** (PDF, DOCX, CSV, PPTX, TXT). It uses a **multi-agent architecture** powered by a **Model Context Protocol (MCP)** to orchestrate tasks like document parsing, retrieval, and answer generation.
 
 ---
 
