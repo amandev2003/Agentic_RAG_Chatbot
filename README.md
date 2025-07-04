@@ -46,6 +46,7 @@ All agents communicate using an internal messaging protocol resembling:
 ```
 
 ## 📁 Project Structure
+```
 agentic_rag_chatbot/
 │
 ├── agents/
@@ -68,3 +69,4 @@ agentic_rag_chatbot/
 ├── main.py
 ├── requirements.txt
 └── README.md
+```
