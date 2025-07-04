@@ -40,7 +40,7 @@ All agents communicate using an internal messaging protocol resembling:
   "trace_id": "rag-457",
   "payload": {
     "top_chunks": ["..."],
-    "query": "What KPIs were tracked in Q1?"
+    "query": "What is the use of agriculture?"
   }
 }
 ```
