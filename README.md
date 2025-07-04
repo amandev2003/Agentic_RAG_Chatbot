@@ -43,9 +43,9 @@ All agents communicate using an internal messaging protocol resembling:
     "query": "What KPIs were tracked in Q1?"
   }
 }
+```
 
-
-📁 Project Structure
+## 📁 Project Structure
 agentic_rag_chatbot/
 │
 ├── agents/
