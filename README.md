@@ -88,7 +88,6 @@ agentic_rag_chatbot/
 ├── ui/
 │   └── app.py
 │
-├── main.py
 ├── requirements.txt
 └── README.md
 ```
