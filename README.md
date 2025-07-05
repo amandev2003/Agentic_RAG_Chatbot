@@ -26,6 +26,15 @@ Follow these steps to set up and run the project locally:
 git clone https://github.com/amandev2003/Agentic_RAG_Chatbot.git
 cd agentic_rag_chatbot
 ```
+### 2️⃣ Install Python Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+### 3️⃣ Run the App
+```bash
+streamlit run ui/app.py
+```
 
 ---
 
