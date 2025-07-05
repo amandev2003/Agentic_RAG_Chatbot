@@ -16,6 +16,19 @@ This is an intelligent, agent-based Retrieval-Augmented Generation (RAG) chatbot
 
 ---
 
+## ⚙️ Getting Started
+
+Follow these steps to set up and run the project locally:
+
+### 1️⃣ Clone or Download the Repository
+
+```bash
+git clone https://github.com/amandev2003/Agentic_RAG_Chatbot.git
+cd agentic_rag_chatbot
+```
+
+---
+
 ## 🏗️ Architecture Overview
 
 This project follows a modular, agent-based architecture with clearly defined agents:
